@@ -10,7 +10,7 @@ html:
 
 # Colores de plantilla
 theme:
-  background_color: "#f9fafb"
+  background_color: "#fff9f0"
   # cover_color: "#ff7070"
 
 # Configuración Central
