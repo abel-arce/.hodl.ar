@@ -6,7 +6,7 @@ version: 0.3.5 # NO TOCAR
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | Abel Arce # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
@@ -28,19 +28,19 @@ blocks:
 
 # - title: Twitter
 #   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+#   url: https://twitter.com/ArceCast3312
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+#   url: https://linkedin.com/in/abeljose12 # Link a donde redireccionará al hacer click
 
 # - title: Github
 #   icon: github
-#   url: https://github.com/TU-USUARIO
+#   url: https://github.com/abel-arce
 
 # - title: Sitio Web
 #   icon: url
-#   url: https://www.TU-WEB.com
+#   url: https://www.NOSITE.com
 
 # - title: Telegram
 #   icon: telegram
