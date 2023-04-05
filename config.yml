@@ -26,9 +26,9 @@ blocks:
     icon: instagram
     url: https://www.instagram.com/lacryptaok/
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/ArceCast3312
+ - title: Twitter
+   icon: twitter
+   url: https://twitter.com/ArceCast3312
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
