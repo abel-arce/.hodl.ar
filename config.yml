@@ -15,7 +15,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Abel Arce # Aca podes poner tu nombre o el de tu producto
+  title: Abel # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
